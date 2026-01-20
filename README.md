@@ -1,5 +1,5 @@
-# VerdictAI Support
-Welcome to VerdictAI - AI-Powered Relationship Insights ⚖️
+# Verdict: AI Conflict Solver Support
+Welcome to Verdict - AI-Powered Relationship Insights ⚖️
 ## 📧 Contact Support
 Having issues with VerdictAI? We're here to help!
 **Email:** viralexee@gmail.com
